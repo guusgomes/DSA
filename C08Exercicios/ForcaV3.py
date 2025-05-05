@@ -8,8 +8,7 @@ def limpa_tela():
         _ = system('clear')
 
 
-board = [
-                """
+board = [ """
          --------- FORCA ---------
 
                    --------
