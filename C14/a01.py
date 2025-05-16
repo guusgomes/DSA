@@ -12,6 +12,8 @@ print(df_dsa.head())
 print('-' * 100)
 print(df_dsa.info())
 print('-' * 100)
+
+## ANÁLISE EXPLORATÓRIA - RESUMO ESTATÍSTICO
 print(df_dsa.isnull().sum())
 print('-' * 100)
 print(df_dsa.describe())
